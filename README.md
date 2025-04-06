@@ -15,11 +15,14 @@ Hi! I'm Dimalsha Perera, a **Computer Science undergraduate** passionate about *
 
 
 ---
-## 📈 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimalshaPerera&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimalshaPerera&layout=compact&theme=radical" width="48%" />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/DimalshaPerera">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimalshaPerera&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimalshaPerera&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</p>
 ---
 
 ## 🤝 Let's Connect!
