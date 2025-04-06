@@ -16,12 +16,10 @@ Hi! I'm Dimalsha Perera, a **Computer Science undergraduate** passionate about *
 
 ---
 ## 📈 GitHub Stats
-
-![Dimalsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DimalshaPerera&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DimalshaPerera&layout=compact&theme=radical)
-
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DimalshaPerera&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimalshaPerera&layout=compact&theme=radical" width="48%" />
+</div>
 ---
 
 ## 🤝 Let's Connect!
